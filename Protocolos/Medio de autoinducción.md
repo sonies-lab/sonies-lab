@@ -1,22 +1,14 @@
 # Preparación del medio de autoinducción (AIM)
 
-## 1.Objetivo
-
-Establecer la metodología de preparación del _medio de autoinducción (AIM)_.
-
-## 2.Alcance
-
-Todos los miembros del grupo que deban preparar el medio de autoinducción.
-
-## 3.Definiciones
+## Definiciones
 
 Medio de autoinducción: medio de composición variable que contiene glucosa y un sacárido inductor -lactosa-. Permite el crecimiento de la cepa de expresión a saturación sin inducción; al final de la fase logarítmica de crecimiento las células agotan la glucosa en el medio y comienzan a metabolizar la lactosa, con la consiguiente inducción de la expresión.
 
-## 4.Descripción de tareas
+## Descripción de tareas
 
 Las cantidades están calculadas para preparar **un litro** de medio. Los erlenmeyers pueden autoclavarse al mismo tiempo que el medio.
 
-### 4.1. Materiales y equipos
+### Materiales y equipos
 
 Componentes del medio:
 
@@ -28,7 +20,7 @@ Componentes del medio:
 - Solución stock de sulfato de magnesio 1 M (MgSO4)[^1]
 - Agua destilada
 - Solución stock de glucosa (2.5 %) + lactosa (10.5 %)[^2]
-- Solución stock de metales traza 1000x
+- Solución stock de metales traza 1000x[^3]
 - Antibiótico
 
 Materiales:
@@ -40,7 +32,7 @@ Equipos:
 - Balanza de precisión adecuada
 - Autoclave
 
-### 4.2. Procedimiento
+### Procedimiento
 
 1. Pesar los siguientes componentes:
 
@@ -53,7 +45,7 @@ Equipos:
 2. Agregar 750 µL de MgSO4 1 M.
 3. Agregar 980 mL de agua destilada; mezclar hasta disolver.
 4. Autoclavar.
-5. **Antes de usar** , agregar asépticamente:
+5. **Antes de usar**, agregar asépticamente:
 
    - solución stock glucosa + lactosa 20 mL
    - solución stock metales traza 1000x 1 mL
@@ -61,9 +53,10 @@ Equipos:
 
 6. Repartir asépticamente en los erlenmeyers, llenando **hasta un 20 %** del volumen de los mismos.
 
-## 5. Referencias
+## Referencias
 
 Studier, F. W. (2014). Stable expression clones and auto-induction for protein production in E. Coli. _Methods in Molecular Biology_, _1091_, 17–32. https://doi.org/10.1007/978-1-62703-691-7\_2
 
 [^1]: 3.7 g de MgSO4·7H2O en 15 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en eppendorf; conservar en freezer.
 [^2]: 2 g de glucosa + 8.4 g de lactosa en 80 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en tubos falcon; conservar en heladera.
+[^3]: Ver [Preparación de solución de metales traza 1000x]().
