@@ -55,8 +55,8 @@ Equipos:
 
 ## Referencias
 
-Studier, F. W. (2014). Stable expression clones and auto-induction for protein production in E. Coli. _Methods in Molecular Biology_, _1091_, 17–32. https://doi.org/10.1007/978-1-62703-691-7\_2
+[Studier2014](https://doi.org/10.1007/978-1-62703-691-7_2 'Stable expression clones and auto-induction for protein production in E. Coli.')
 
 [^1]: 3.7 g de MgSO4·7H2O en 15 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en eppendorf; conservar en freezer.
 [^2]: 2 g de glucosa + 8.4 g de lactosa en 80 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en tubos falcon; conservar en heladera.
-[^3]: Ver [Preparación de solución de metales traza 1000x]().
+[^3]: Ver [Preparación de solución de metales traza 1000x](./Solución%20de%20metales%20traza%201000x.md).
