@@ -59,4 +59,4 @@ Equipos:
 
 [^1]: 3.7 g de MgSO<sub>4</sub>·7H<sub>2</sub>O en 15 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en eppendorf; conservar en freezer.
 [^2]: 2 g de glucosa + 8.4 g de lactosa en 80 mL de agua destilada. Disolver y esterilizar por filtración, alicuotando en tubos falcon; conservar en heladera.
-[^3]: Ver [Preparación de solución de metales traza 1000x](./Solución%20de%20metales%20traza%201000x.md).
+[^3]: Ver [Preparación de solución de metales traza 1000x](../Solutions/Trace_metals_stock_solution_1000x.md).
