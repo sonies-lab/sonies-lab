@@ -1,4 +1,4 @@
-# Preparación del medio de autoinducción (AIM)
+# Medio de autoinducción (AIM)
 
 ## Definiciones
 

@@ -1,4 +1,4 @@
-# Preparación de solución stock de metales traza 1000x
+# Solución stock de metales traza 1000x
 
 ## Definiciones
 
