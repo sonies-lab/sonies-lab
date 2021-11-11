@@ -1,0 +1,198 @@
+# Purificación de proteínas por IMAC
+
+## Objetivo
+
+Purificar una proteína recombinante expresada en *E. coli* con una cola de histidinas como tag.
+
+## Definiciones
+
+IMAC: Immobilized Metal Affinity Chromatography.
+
+## Descripción de tareas
+
+--------------------------------------
+
+Partiendo desde una cepa en freezer, los tiempos requeridos para completar el protocolo son los siguientes:
+
+- Crecimiento en placa 1 día
+- Precultivo 1 día
+- Cultivo en AIM 2 días
+- Purificación 1 día
+
+### Materiales y equipos
+
+Materiales:
+
+- Placas de LB con antibiótico
+- Tubos de ensayo con 5 mL de medio LB y antibiótico
+- Erlenmeyers indentados con 100 mL de [AIM](../Media/Autoinduction_media-AIM.md) y antibiótico
+- Tubos de centrífuga de 250 mL estériles
+- Buffer Tris 100 mM, pH 7.52
+- Eppendorfs
+- Solución stock de sustratos imina 250 mM en dimetilsulfóxido (DMSO)3
+- Solución de ribosa al 40 %
+- Solución de hidróxido de sodio (NaOH) 10 M4
+- Acetato de etilo (AcOEt) calidad HPLC
+- Sulfato de sodio anhidro (Na2SO4)
+- Viales ámbar de 1.5 mL con tapa para inyector automático
+- Solución stock de heptadecanoato de metilo 22.5 mM (estándar interno)5
+
+Equipos:
+
+- Estufa de cultivo a 37 ºC
+- Agitador orbital (shaker) a 37 y 28 ºC
+- Espectrofotómetro
+- Centrífuga y microcentrífuga
+- Cromatógrafo de gases (GC)
+
+  1. Procedimiento
+
+    1. Llenar el registro, indicando biocatalizadores, volumen de trabajo y sustratos a ensayar.
+    2. Retirar la cepa de interés de freezer a una placa de LB con el antibiótico (AB) correspondiente. Crecer en estufa a 37 ºC de un día para el otro.
+    3. Sembrar una colonia aislada en un tubo con 5 mL de medio LB+AB.
+    4. Incubar de un día para el otro en shaker a 37 ºC, 150 rpm.
+    5. Inocular 1 mL del cultivo anterior en 100 mL de medio AIM+AB.
+    6. Incubar durante aproximadamente 2.5 h en shaker a 37 ºC, 150 rpm.
+    7. Medir, en celda de plástico, la densidad óptica del cultivo a 600 nm; la misma debe ser ligeramente inferior a 1. **Registrar DO y t de incubación**.
+    8. Transferir a un shaker a 28 ºC, 150 rpm. Incubar durante 48 h.
+    9. Tomar 500 µL de muestra.
+      1. Centrifugar, descartar sobrenadante y congelar el pellet.
+    10. Rotular y pesar los tubos de centrífuga.
+    11. Transferir los cultivos a los tubos y centrifugar a 4000 xg, 15 min, 4 ºC6. Descartar sobrenadante.
+    12. Resuspender en 50 mL de buffer Tris y volver a centrifugar. Descartar sobrenadante.
+    13. Pesar los tubos y calcular la cantidad de biomasa obtenida. **Registrar**.
+    14. Resuspender en buffer Tris. Vresuspensión = biomasa (mg) / 110. **Registrar**.
+    15. Rotular la cantidad necesaria de eppendorf para largar cada reacción por duplicado.
+    16. Arme las mezclas de reacción de acuerdo al siguiente detalle:
+
+Biotransformaciones
+
+Biomasa 100 mg/mL 465 µL
+
+Ribosa (40 %) 2 % 25 µL
+
+Sustrato (250 mM en DMSO) 5 mM 10 µL
+
+V final 500 µL
+
+    1. Acomodar los eppendorf en shaker a 28 ºC, 150 rpm de forma tal que queden acostados. Incubar durante 48 h.
+    2. Basificar las reacciones con 100 µL de NaOH.
+    3. Agregar 750 µL de AcOEt.
+    4. Agitar en vórtex 10 s y centrifugar a 12000 xg, 5 min.
+    5. Separar al menos 500 µL de la capa superior (orgánica) a otro eppendorf conteniendo una punta de espátula de Na2SO4.
+    6. Agitar en vórtex 5 s y dejar reposar al menos 5 minutos.
+    7. Centrifugar a 12000 xg, 5 min.
+    8. Separar 400 µL a un vial ámbar rotulado.
+    9. Agregar 50 µL de solución stock de estándar interno.
+    10. Analizar las muestras por GC. **Registrar**.
+  1. Notas
+
+1. Ver PL-001
+2. Disolver 9.7 g de Tris base en 500 mL de agua destilada. Ajustar pH y llevar a 800 mL. Autoclavar y conservar a T amb.
+3. mgsustrato / mLDMSO = 0.25 \* PMsustrato
+4. Colocar un falcon de 50 mL en hielo y agregar 25 mL de agua. Añadir de a poco 12 g de NaOH, agitando hasta disolver. Llevar a 30 mL. ¡Reacción muy exotérmica!
+5. Disolver 64 mg de heptadecanoato de metilo en 10 mL de AcOEt.
+6. Se requieren unos 15 minutos previos para enfriar la centrífuga.
+
+  1. Referencias
+
+Velikogne, S., Resch, V., Dertnig, C., Schrittwieser, J. H., &amp; Kroutil, W. (2018). Sequence-Based In-silico Discovery, Characterisation, and Biocatalytic Application of a Set of Imine Reductases. _ChemCatChem_, _10_(15), 3236–3246. doi.org/10.1002/cctc.201800607
+
+Tiempo requerido (sin contar el desalting): 5 hs
+
+A partir del cultivo de autoinducción a 28 ºC, 48 hs, seguir el procedimiento a continuación:
+
+**Parte 1 Lisado**
+
+1. Centrifugar las células a 4000 xg en tubos de centrífuga por 15 min, descartar sobrenadante.
+2. Lavar 2 veces con buffer [HEPES] 50 mM pH 8.25, descartar sobrenadante ambas veces.
+
+**Nota:** Si no puede realizarse todo el procedimiento el mismo día se recomienda parar en este punto y congelar las células.
+
+1. Resuspender en buffer de unión  10 mL de buffer/g de células. Pasar a falcon de 50 mL.
+2. Poner en agua-hielo y agregar 1 mg lisozima/mL de suspensión. Mezclar suavemente cada algunos minutos, durante 30 min.
+3. Agregar 5 µg/mL de DNAsa y ARNasa, y 0.1 mL/mL de [Tritón X-100] 10 %. Mezclar suavemente cada algunos minutos, durante 15 min
+# 1
+.
+4. Centrifugar a 13000 xg, 4 ºC, 25 min. Separar el sobrenadante
+**# 2** a un falcon y dejarlo en agua-hielo para utilizarlo en la **Parte 2**.
+
+**Parte 2 Purificación**
+
+1. Equilibrar columna HisTrap de 5 mL con 25 mL buffer de unión.
+2. Recircular el sobrenadante obtenido en la **Parte 1** por la columna, durante unos 45 min. Para purificar la mayor cantidad posible de proteína, luego de recircular hacer pasar el sobrenadante de un falcon a otro a través de la columna, con cuidado de no dejar pasar aire
+# 3
+.
+3. Lavar con 25 mL buffer de lavado
+# 4
+.
+4. Eluir con aprox. 25 mL buffer de elución, en unas 4 - 8 fracciones.
+5. Medir la abs a 280 nm y juntar las fracciones con abs \&gt; 0.5.
+6. Lavado de columna:
+  1. 25 mL buffer de elución
+  2. 25 mL agua destilada
+  3. 50 mL etanol 20 %
+  4. 50 mL agua destilada (o buffer de unión si va a realizarse otra purificación a continuación)
+
+**Parte 3 Desalting y guardado**
+
+**Nota 1:** Puede omitirse el desalting para evitar diluir la enzima. En ese caso proceder al punto (14), teniendo en cuenta que la [imidazol] es muy alta y puede inhibir la actividad enzimática.
+
+**Nota 2:** Si no fuese posible realizar este paso el mismo día, dejar el falcon con la enzima en un baño de agua en heladera.
+
+1. Columna PD10:
+  1. Lavar con 10 mL de H2O.
+  2. Equilibrar con 20 mL de buffer de reacción diluido 1/5 (0.02 mM PLP).
+  3. Cargar 2.5 mL de la enzima.
+  4. Eluir con 3.5 mL de buffer de reacción.
+  5. Lavar con 20 mL de H2O. Repetir desde (2) la cantidad de veces que sea necesario.
+  6. Lavar con 20 mL de H2O y guardar en heladera con al menos 1 cm de H2O.
+2. Añadir glicerol para llevar al 30 % y guardar a - 20 ºC.
+
+**Buffers**
+
+_Buffer de unión_
+
+HEPES 50 mM (12 g/L)
+
+NaCl 300 mM (17.5 g/L)
+
+Imidazol 10 mM (0.7 g/L)
+
+Ajustar a pH 8.25 y autoclavar.
+
+_Buffer de lavado_
+
+HEPES 50 mM (12 g/L)
+
+NaCl 300 mM (17.5 g/L)
+
+Imidazol 30 mM (2 g/L)
+
+Ajustar a pH 8.25 y autoclavar.
+
+_Buffer de elución_
+
+HEPES 50 mM (12 g/L)
+
+NaCl 300 mM (17.5 g/L)
+
+Imidazol 300 mM (20.4 g/L)
+
+Ajustar a pH 8.25 y autoclavar.
+
+_Buffer de reacción_
+
+HEPES 50 mM (12 g/L)
+
+PLP 0.1 mM (26.5 mg/L)
+
+Ajustar a pH 8.25 y filtrar por filtro 0.22 µm, cubrir envase con papel aluminio y guardar en heladera.
+
+[1](#sdfootnote1anc) Tomar 0.5 mL en epp, centrifugar y separar el SN: muestras para expresión de proteínas.
+
+[2](#sdfootnote2anc) Con este SN puede probarse actividad.
+
+[3](#sdfootnote3anc) Tomar 0.3 mL: percolado.
+
+[4](#sdfootnote4anc) Tomar 0.3 mL: lavado.
