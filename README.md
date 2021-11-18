@@ -1,4 +1,4 @@
-# soniadores-lab
+# sonies-lab
 
 ## Protocolos
 
