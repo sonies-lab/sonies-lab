@@ -4,14 +4,14 @@
 
 ### Purificación de proteínas
 
-[Purificación de AspRedAm por IMAC](Protocols/AspRedAm-purification.md)  
-[Purificación de TACap por IMAC](Protocols/TACap-purification.md)  
+[Purificación de AspRedAm por IMAC](Protocols/p002.md)  
+[Purificación de TACap por IMAC](Protocols/p001.md)  
 
 ## Medios de cultivo
 
-[Medio de autoinducción (AIM)](Media/Autoinduction-media-AIM.md)  
-[Medio LB](Media/Lysogeny-broth-LB.md)  
+[Medio LB](Media/m001.md)  
+[Medio de autoinducción (AIM)](Media/m002.md)  
 
 ## Soluciones
 
-[Solución stock de metales traza 1000x](Solutions/Trace-metals-stock-solution-1000x.md)  
+[Solución stock de metales traza 1000x](Solutions/s001.md)  
