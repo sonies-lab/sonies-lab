@@ -2,6 +2,8 @@
 
 ## Protocolos
 
+### Purificación de proteínas
+
 [Purificación de AspRedAm por IMAC](Protocols/AspRedAm-purification.md)  
 [Purificación de TACap por IMAC](Protocols/TACap-purification.md)  
 
