@@ -1,8 +1,13 @@
 # soniadores-lab
 
+## Protocolos
+
+[Purificación de proteínas por IMAC](Protocols/Protein_purification.md)  
+
 ## Medios de cultivo
 
 [Medio de autoinducción (AIM)](Media/Autoinduction_media-AIM.md)  
+[Medio LB](Media/Lysogeny_broth-LB.md)  
 
 ## Soluciones
 
