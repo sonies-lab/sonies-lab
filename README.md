@@ -14,4 +14,6 @@
 
 ## Soluciones
 
+[Solución stock de ampicilina  mg/mL](Solutions/s003.md)
+[Solución stock de kanamicina 10 mg/mL](Solutions/s002.md)
 [Solución stock de metales traza 1000x](Solutions/s001.md)  
