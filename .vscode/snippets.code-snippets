@@ -1,0 +1,14 @@
+{
+	"sub": {
+		"prefix": "#sub",
+		"body": [
+			"<sub>$1</sub>$0"
+		]
+		},
+	"sup": {
+		"prefix": "#sup",
+		"body": [
+			"<sup>$1</sup>$0"
+		]
+		},
+}
