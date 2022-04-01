@@ -1,5 +1,7 @@
 # sonies-lab
 
+Ahora esta bien ???? Avisameeeee
+
 ## Protocolos
 
 ### Purificación de proteínas
