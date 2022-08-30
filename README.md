@@ -4,6 +4,7 @@
 
 ## Biología molecular
 
+[Concentración de ácidos nucleicos por precipitación con EtOH](Protocols/p004.md)
 [Preparación de células electro-competentes de *E. coli*](Protocols/p003.md)
 
 ### Purificación de proteínas
