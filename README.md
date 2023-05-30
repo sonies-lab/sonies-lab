@@ -5,9 +5,9 @@
 ## Biología molecular
 
 [Concentración de ácidos nucleicos por precipitación con EtOH](Protocols/p004.md)  
-[Preparación de células electro-competentes de *E. coli*](Protocols/p003.md)   
-[Electroporacion con E.coli](Protocols/10.1101@pdb.prot101220.pdf)    
-[Como guardar cepas a -70grados](Protocols/p006.md)
+[Preparación de células electrocompetentes de _E. coli_](Protocols/p003.md)   
+[Transformación de células electrocompetentes de _E.coli_](Protocols/p005.md)    
+[Guardado de cepas stock en freezer](Protocols/p006.md)
 
 ### Purificación de proteínas
 
