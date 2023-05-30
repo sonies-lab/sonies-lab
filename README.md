@@ -6,7 +6,7 @@
 
 [Concentración de ácidos nucleicos por precipitación con EtOH](Protocols/p004.md)  
 [Preparación de células electro-competentes de *E. coli*](Protocols/p003.md)
-[Electroporacion con E.coli]
+[Electroporacion con E.coli](protocols/10.1101/pdb.prot101220)
 
 ### Purificación de proteínas
 
